@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TFG</string>
+
+    <!-- MainActivity -->
+
+    <string name="user_name">Usuario</string>
+
+    <string name="btn_login">Login</string>
+    <string name="login">"¡Entra!"</string>
+    mbre
+    <string name="btn_registro">Registro</string>
+    <string name="registro">"¡Regístrate!"</string>
+
+
+    <!-- Registro -->
+    <string name="user">Usuario</string>
+    <string name="fechaN">Fecha de nacimiento</string>
+    <string name="name">Nombre</string>
+
+    <string name="btn_hombre">Hombre</string>
+    <string name="btn_mujer">Mujer</string>
+
+    <string name="btn_fechaN">Calendario</string>
+    <string name="btn_reg">Registrar</string>
+
+    <!-- MenuPpal -->
+    <string name="btn_medir">Medir frecuencia cardíaca</string>
+    <string name="btn_bluetooth">Ajustes Bluetooth</string>
+    <string name="btn_server">Sincronizar base de datos</string>
+    <string name="perfil">Perfil</string>
+    <string name="title_activity_prueba">prueba</string>
+    <string name="title_activity_menu_ppal_nav">MenuPpalNav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
